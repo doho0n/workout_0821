@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+faiss-cpu
+rank_bm25
+pypdf
+python-dotenv
+tiktoken
+beautifulsoup4
+sentence-transformers
+PyPDF2
